@@ -1,0 +1,160 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* --------------*/
+/* ----HEADER----*/
+/* --------------*/
+
+
+/* ------------------*/
+/* ----HEADER END----*/
+/* ------------------*/
+
+.header {
+	background-color: purple;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* ------------------*/
+/* ----NAVIGATION----*/
+/* ------------------*/
+
+
+h2 {
+	padding-bottom: 1.5%;
+	padding-top: 10%;
+	font-size: 25px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+}
+
+.quote {
+	font-size: 25px;
+	font-weight: bold;
+	background-color: #E6F0F0;
+	padding: 5%;
+	text-align: center;
+}
+
+.nav {
+	padding: 0.5%;
+	display:inline-block;
+	text-align: center;
+}
+
+.navigation {
+	padding-bottom: 10%;
+	text-align: center;
+}
+
+.button {
+	display: block;
+	height: 40px;
+	width: 110px;
+	background: #000;
+	border: 12px solid transparent;
+	-moz-border-radius: 3px;
+  	-webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+a.button {
+	text-decoration: none;
+}
+
+/* ----------------------*/
+/* ----NAVIGATION END----*/
+/* ----------------------*/
+
+
+/* ------------*/
+/* ----BODY----*/
+/* ------------*/
+
+body {
+	margin: 0;
+}
+
+a {
+	color: purple;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 60px;
+	padding: 15%;
+	text-align: center;
+	color: white;
+	text-shadow: 5px 5px #444;
+	margin: 0;
+}
+
+.title {
+	background-color: #444;
+	padding: 0.3%;
+	font-family: helvetica;
+	margin-top: 3%;
+	margin-bottom: 3%;
+
+}
+
+.stage {
+	color: white;
+	padding: 0.3%;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.note {
+	padding: 1%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+
+h4 {
+	font-size: 18px;
+	font-family: helvetica;
+	color: purple;
+	font-weight: bold;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* ----------------*/
+/* ----BODY END----*/
+/* ----------------*/
+
+
+
+/* --------------*/
+/* ----FOOTER----*/
+/* --------------*/
+
+.footer {
+	font-size: 25px;
+	font-weight: bold;
+	background-color: purple;
+	padding: 15%;
+	text-align: center;
+	color: white;
+	margin-top: 5%;
+}
+
+/* ------------------*/
+/* ----FOOTER END----*/
+/* ------------------*/
